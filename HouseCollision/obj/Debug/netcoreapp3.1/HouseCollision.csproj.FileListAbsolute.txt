@@ -1,0 +1,12 @@
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\bin\Debug\netcoreapp3.1\HouseCollision.exe
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\bin\Debug\netcoreapp3.1\HouseCollision.deps.json
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\bin\Debug\netcoreapp3.1\HouseCollision.runtimeconfig.json
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\bin\Debug\netcoreapp3.1\HouseCollision.runtimeconfig.dev.json
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\bin\Debug\netcoreapp3.1\HouseCollision.dll
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\bin\Debug\netcoreapp3.1\HouseCollision.pdb
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\obj\Debug\netcoreapp3.1\HouseCollision.AssemblyInfoInputs.cache
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\obj\Debug\netcoreapp3.1\HouseCollision.AssemblyInfo.cs
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\obj\Debug\netcoreapp3.1\HouseCollision.csproj.CoreCompileInputs.cache
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\obj\Debug\netcoreapp3.1\HouseCollision.dll
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\obj\Debug\netcoreapp3.1\HouseCollision.pdb
+C:\Users\Ferenc\source\repos\HouseCollision\HouseCollision\obj\Debug\netcoreapp3.1\HouseCollision.genruntimeconfig.cache
